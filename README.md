@@ -1,2 +1,3 @@
-# Scientific-Internet-
-科学上网
+滑稽科学上网
+
+下载：
