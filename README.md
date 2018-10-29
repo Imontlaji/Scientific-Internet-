@@ -1,4 +1,4 @@
-![滑稽](Pic/Huaji.png)
+![滑稽](Pic/Huaji.png) ![滑稽](Pic/Huaji.png) ![滑稽](Pic/Huaji.png)
 
 滑稽科学上网
 
