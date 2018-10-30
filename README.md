@@ -1,4 +1,4 @@
-[![图片](Pic/Head.png)](https://raw.githubusercontent.com/Imontlaji/Scientific-Internet-)
+[![图片](Pic/Head.png)](https://github.com/Imontlaji/Scientific-Internet-)
 # 滑稽科学上网 - 连接全世界  
 
 ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  
