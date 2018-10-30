@@ -12,8 +12,5 @@ ___
 #### 而使用这个软件后是 个人->代理服务器->国外网站 可以绕开GFW审查 可以连接包括但不限于  
 #### Youtube Facebook Twitter Google等网站 并轻松观看Youtube 4K视频  
 ## 当前版本:Ver.1
-
-  
-点击下载：  
+___
 [![Travis](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD%20Download-10.4M-green.svg)](https://raw.githubusercontent.com/Imontlaji/Scientific-Internet-/master/Release/Huaji-Scientific-Internet.exe)  
-[下载 Download](https://raw.githubusercontent.com/Imontlaji/Scientific-Internet-/master/Release/Huaji-Scientific-Internet.exe)
