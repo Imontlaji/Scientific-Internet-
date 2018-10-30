@@ -1,12 +1,12 @@
 ![图片](Pic/Head.png)
 # 滑稽科学上网 - 连接全世界  
-___
-  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png) 
+
+![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  
 * 无限制的浏览互联网
 * 高速的浏览速度
 * 免费使用
 * 自动更新  
-___
+
 ### 为什么要使用这个软件?  
 #### 因为直连国外网站是 个人->GFW->国外网站 GFW会对网站进行审查 导致部分网站不能打开  
 #### 而使用这个软件后是 个人->代理服务器->国外网站 可以绕开GFW审查 可以连接包括但不限于  
