@@ -1,7 +1,7 @@
 ![图片](Pic/Head.png)
 # 滑稽科学上网 - 连接全世界  
 ___
-![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png) 
+  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png)  ![滑稽](Pic/Huaji.png) 
 * 无限制的浏览互联网
 * 高速的浏览速度
 * 免费使用
