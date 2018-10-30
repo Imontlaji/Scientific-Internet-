@@ -15,4 +15,5 @@ ___
 
   
 点击下载：  
+[![Travis](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD%20Download-10.4M-green.svg)](https://raw.githubusercontent.com/Imontlaji/Scientific-Internet-/master/Release/Huaji-Scientific-Internet.exe)  
 [下载 Download](https://raw.githubusercontent.com/Imontlaji/Scientific-Internet-/master/Release/Huaji-Scientific-Internet.exe)
