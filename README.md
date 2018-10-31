@@ -14,3 +14,9 @@
 #### 而使用这个软件后是 个人->代理服务器->国外网站 可以绕开GFW审查 可以连接包括但不限于 `谷歌 油管 推特 脸书` 等网站 并轻松观看4K视频  
 ## 当前版本:Ver.2
 [![Travis](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD%20Download-10.4M%20Ver.2-green.svg)](https://raw.githubusercontent.com/Imontlaji/Scientific-Internet-/master/Release/Huaji-Scientific-Internet.exe)  
+
+
+## Ver.2更新  
+* 新的UI
+* 自由设置端口
+* 修复BUG
