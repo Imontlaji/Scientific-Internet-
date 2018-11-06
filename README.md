@@ -8,12 +8,15 @@
 * 高速的浏览速度
 * 免费使用
 * 自动更新  
-## 当前版本:Ver.4
-[![Travis](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD%20Download-12.5M%20Ver.4-green.svg)](https://raw.githubusercontent.com/Imontlaji/Scientific-Internet-/master/Release/Huaji-Scientific-Internet.exe)  
+## 当前版本:Ver.5
+[![Travis](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD%20Download-12.5M%20Ver.5-green.svg)](https://raw.githubusercontent.com/Imontlaji/Scientific-Internet-/master/Release/Huaji-Scientific-Internet.exe)  
 [![Travis](https://img.shields.io/badge/%E7%8B%AC%E7%AB%8B%E9%A1%B5%E9%9D%A2-Click-green.svg)](https://imontlaji.github.io/Scientific-Internet-/)  
 ### 为什么要使用这个软件?  
 #### 因为直连国外网站是 个人->GFW->国外网站 GFW会对网站进行审查 导致部分网站不能打开  
 #### 而使用这个软件后是 个人->代理服务器->国外网站 可以绕开GFW审查 可以连接包括但不限于 `谷歌 油管 推特 脸书` 等网站 并轻松观看4K视频  
+## Ver.5更新  
+* 重启服务
+
 ## Ver.4更新  
 * 修复某些情况下可能出现网络连接失败的问题
 * 添加自定义字体颜色
