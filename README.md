@@ -9,7 +9,9 @@
 * 免费使用
 * 自动更新  
 ## 当前版本:Ver.6
+#↓难道你们就不会点一下这里吗 天天问我在哪下载  
 [![Travis](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD%20Download-12.2M%20Ver.6-green.svg)](https://raw.githubusercontent.com/Imontlaji/Scientific-Internet-/master/Release/Huaji-Scientific-Internet.exe)  
+#↑难道你们就不会点一下这里吗 天天问我在哪下载  
 [![Travis](https://img.shields.io/badge/%E7%8B%AC%E7%AB%8B%E9%A1%B5%E9%9D%A2-Click-green.svg)](https://imontlaji.github.io/Scientific-Internet-/)  
 ### 为什么要使用这个软件?  
 #### 因为直连国外网站是 个人->GFW->国外网站 GFW会对网站进行审查 导致部分网站不能打开  
