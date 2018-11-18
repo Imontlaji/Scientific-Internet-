@@ -1,5 +1,5 @@
 [![图片](Pic/Head.png)](https://github.com/Imontlaji/Scientific-Internet-)
-<a href="https://imontlaji.github.io/index.html"><font color=#ffffff size=20>主页面</font></a>
+<a style=" color:#ffffff; font-size:12px;" href="https://imontlaji.github.io/index.html">主页面</a>
 
 # 滑稽科学上网 - 连接全世界  
 
